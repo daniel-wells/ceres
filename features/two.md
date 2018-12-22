@@ -1,8 +1,8 @@
 ---
 layout: page
 featured: true
-title: Tempus adipiscing
-description: Lorem ipsum dolor sit amet, etiam lorem adipiscing elit. Cras turpis ante, nullam sit amet turpis non, sollicitudin posuere urna. Mauris id tellus arcu. Nunc vehicula id nulla dignissim dapibus. Nullam ultrices, neque et faucibus viverra, ex nulla cursus.
+title: Unparalleled Value
+description: Modern automation enables us to provide high quality healthy food at an unheard of price point
 order: 2
 image: images/pic02.jpg
 author: null

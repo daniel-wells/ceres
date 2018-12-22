@@ -1,8 +1,8 @@
 ---
 layout: page
 featured: true
-title: Magna arcu feugiat
-description: Lorem ipsum dolor sit amet, etiam lorem adipiscing elit. Cras turpis ante, nullam sit amet turpis non, sollicitudin posuere urna. Mauris id tellus arcu. Nunc vehicula id nulla dignissim dapibus. Nullam ultrices, neque et faucibus viverra, ex nulla cursus.
+title: From Flour to Food in 3 Minutes
+description: Using the lastest in food processing technology enables us to provide unparalleled speed of service
 order: 1
 image: images/pic01.jpg
 author: null
