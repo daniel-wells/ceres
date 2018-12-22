@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: Ceres Technolgies
-description: Convenient. Nutritious. Affordable. Pasta for the 21st Century
+description: Convenient, Nutritious, Affordable: Pasta for the 21st Century
 image: null
 author: null
 ---
