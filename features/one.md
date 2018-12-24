@@ -2,7 +2,7 @@
 layout: page
 featured: true
 title: From Flour to Food in 3 Minutes
-description: Using the lastest in food processing technology enables us to provide unparalleled convenience without comprimising on nutrition or hygiene.
+description: Using the latest in food processing technology enables us to provide unparalleled convenience without compromising on nutrition or hygiene.
 order: 1
 image: images/pic01.jpg
 author: null
